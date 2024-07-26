@@ -1,0 +1,11 @@
+opencv-python
+pyyaml
+yacs
+tqdm
+colorama
+matplotlib
+cython==0.29.21
+tensorboard
+future
+mpi4py
+optuna
